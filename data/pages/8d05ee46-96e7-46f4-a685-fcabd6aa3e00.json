@@ -4,11 +4,12 @@
   "created_by": "veesalu",
   "title": "Suspense Film",
   "slug": "suspense-film",
-  "updated_at": "2026-01-29T16:40:24.311Z",
+  "updated_at": "2026-01-29T17:01:13.816Z",
   "updated_by": "veesalu",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "1830f9ec-4eb9-4fea-bb65-27fdcfbc02f2"
-  }
+  },
+  "parent": "55db2de6-bd72-49ea-91ba-17b57a94c36b"
 }
